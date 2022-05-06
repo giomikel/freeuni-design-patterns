@@ -1,0 +1,7 @@
+black
+isort
+mypy
+flake8
+pytest
+more_itertools
+codetiming
