@@ -1,0 +1,11 @@
+black
+isort
+mypy
+flake8
+pytest
+httpx
+fastapi
+gunicorn
+uvicorn
+pyrsistent
+starlette
